@@ -1,5 +1,1 @@
-155.46.213.16
-194.36.55.26
-77.105.163.33
-193.33.87.94
-45.67.214.230
+https://raw.githubusercontent.com/uroadrun89/am-cf-trojan/refs/heads/main/ipv4.txt
